@@ -17,7 +17,7 @@ It is recommended to run this project in a virtual environment. The code is test
 To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
-
+```
 ## Usage
 ### Training
 How to train your model.
